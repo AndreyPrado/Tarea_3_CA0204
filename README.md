@@ -2,3 +2,4 @@
 Espacio para responder la pregunta 2 de la tarea
 
 Adonis Araya C4C517
+Erika Wu C38600
