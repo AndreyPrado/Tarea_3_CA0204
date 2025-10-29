@@ -1,0 +1,1 @@
+Me ha gustado mucho de momento, ha sido interesante ver los usos de R y de como puede leer y modificar data frames. Por otro lado, el uso de git aún no logro tenerle comprensión pero sé que es bastante eficiente
