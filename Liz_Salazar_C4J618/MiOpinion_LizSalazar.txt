@@ -1,0 +1,2 @@
+El curso me ha parecido bastante útil para manipular e interpretar datos a través de un lenguaje tan  completo como lo es R. 
+Como futuros actuarios, es importante volvernos expertos en este área de la programación, siento que este curso es perfecto para consolidar nuestras bases sobre la ciencia de datos y ayudarnos a saber si especializarnos en esta rama cuando avancemos más en la carrera.
