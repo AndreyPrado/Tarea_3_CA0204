@@ -13,6 +13,3 @@ Robert Melendez C34772
 José Miguel Rodríguez Gómez C4J104  
 
 Daniela Prado Vargas C26070  
-
-Emily Alejandra Sánchez Mancía C27260
-
