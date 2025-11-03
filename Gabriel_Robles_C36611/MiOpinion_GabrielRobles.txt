@@ -1,0 +1,4 @@
+Este curso ha sido bastante util, 
+aunque yo ya conocía bastante de git, bash y excel 
+antes de llegar al curso, he descubrido mucho más de
+lo que todavía no sabía hasta ahora.
