@@ -17,3 +17,11 @@ Daniela Prado Vargas C26070
 Liz de María Salazar Amaya C4J618
 
 Emily Alejandra Sánchez Mancía C27260
+
+Estefania Mora Contreras C4H522
+
+Gabriel Robles Arias C36611
+
+Benjamín Gutiérrez Padua. C4F813
+
+Anthonny Flores Rojas C32975
