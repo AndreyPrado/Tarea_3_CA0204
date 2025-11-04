@@ -24,4 +24,4 @@ Gabriel Robles Arias C36611
 
 Benjamín Gutiérrez Padua. C4F813
 
-Anthonny Flores Rojas C32975
+Anthonny Flores Rojas C32975Randal Picado C36024
