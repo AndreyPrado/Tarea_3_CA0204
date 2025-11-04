@@ -27,3 +27,5 @@ Benjamín Gutiérrez Padua. C4F813
 Anthonny Flores Rojas C32975
 
 Randal Picado C36024
+
+Jose Alfaro C30244
