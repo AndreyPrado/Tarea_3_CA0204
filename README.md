@@ -1,20 +1,20 @@
-# Tarea\_3\_CA0204  
+# Tarea\_3\_CA0204
 
-Espacio para responder la pregunta 2 de la tarea  
+Espacio para responder la pregunta 2 de la tarea
 
-Adonis Araya C4C517  
+Adonis Araya C4C517
 
 Andrés Zúñiga Mora C38733
 
-Erika Wu C38600  
+Erika Wu C38600
 
-Ashly Garro C33198  
+Ashly Garro C33198
 
-Robert Melendez C34772  
+Robert Melendez C34772
 
-José Miguel Rodríguez Gómez C4J104  
+José Miguel Rodríguez Gómez C4J104
 
-Daniela Prado Vargas C26070  
+Daniela Prado Vargas C26070
 
 Liz de María Salazar Amaya C4J618
 
@@ -41,3 +41,6 @@ Sebastián Miranda Ramírez C4H274
 Olman Camacho Jerez C31523
 
 Alexandra González Bermúdez C4F535
+
+Alejandro Bianchini Quirós C4D170
+
