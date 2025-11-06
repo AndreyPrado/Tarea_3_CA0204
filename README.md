@@ -46,4 +46,7 @@ Alejandro Bianchini Quirós C4D170
 
 Kevin David Calderon Martinez C4D511
 
-Alessandro Umaña vega C37963Andrey Gonzalez C33329
+Alessandro Umaña vega C37963
+
+Andrey González Bastos C33329
+
