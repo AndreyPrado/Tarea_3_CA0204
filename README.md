@@ -35,3 +35,5 @@ Jose Alfaro C30244
 Daniel Jesús Cascante Espinoza C4D841
 
 Leonardo Vega Aragón C38313
+
+Sebastián Miranda Ramírez C4H274
