@@ -1,0 +1,1 @@
+Considero que el lenguaje de programación utilizado en el curso tiende a ser mayormente memorístico, de forma que la lógica de programar pasa a un segundo plano. Asimismo, es contraproducente que a los estudiantes se les introduzca en primera instancia a un lenguaje diferente al utilizado en el curso.
