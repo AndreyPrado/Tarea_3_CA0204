@@ -33,3 +33,5 @@ Randal Picado C36024
 Jose Alfaro C30244
 
 Daniel Jesús Cascante Espinoza C4D841
+
+Leonardo Vega Aragón C38313
