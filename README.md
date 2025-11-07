@@ -61,3 +61,5 @@ Gabriel Chaves Esquivel C4E273
 Santiago Paniagua Chavarría C4I249
 
 Jeremy Garcia Solano C33171
+
+Samuel Jiménez Zamora C4G334
