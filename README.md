@@ -59,3 +59,5 @@ Adriana Monge Rodríguez C35042
 Gabriel Chaves Esquivel C4E273
 
 Santiago Paniagua Chavarría C4I249
+
+Jeremy Garcia Solano C33171
