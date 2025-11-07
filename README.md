@@ -57,3 +57,5 @@ Luis Diego Elizondo Fennell - C4E844
 Adriana Monge Rodríguez C35042
  
 Gabriel Chaves Esquivel C4E273
+
+Santiago Paniagua Chavarría C4I249
